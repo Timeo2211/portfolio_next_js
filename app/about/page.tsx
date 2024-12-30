@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 export default function About() {
     return (
         <div className="max-w-4xl mx-auto">
@@ -9,15 +7,15 @@ export default function About() {
                 <div>
                     <h2 className="text-2xl font-bold mb-4">Qui suis-je ?</h2>
                     <ul className="list-disc list-inside space-y-2">
-                        <li>Bonjour, je m'appelle Timéo Duchet, j'ai 19 ans et je suis actuellement en 2e année de BUT
-                            informatique à l'IUT de Lens.
+                        <li>Bonjour, je m&#39;appelle Timéo Duchet, j&#39;ai 19 ans et je suis actuellement en 2e année de BUT
+                            informatique à l&#39;IUT de Lens.
                         </li>
-                        <li>Je suis passionné par l'informatique depuis mon plus jeune âge et je souhaite en faire mon
+                        <li>Je suis passionné par l&#39;informatique depuis mon plus jeune âge et je souhaite en faire mon
                             métier.
                         </li>
-                        <li>Durant mes deux années de BUT informatique, j'ai pu découvrir et me développer dans
+                        <li>Durant mes deux années de BUT informatique, j&#39;ai pu découvrir et me développer dans
                             différents domaines, comme la programmation, le développement web, la base de données et le
-                            travail en équipe. J'ai également pu acquérir des connaissances en réseaux et en
+                            travail en équipe. J&#39;ai également pu acquérir des connaissances en réseaux et en
                             communication.
                         </li>
                     </ul>
@@ -44,12 +42,12 @@ export default function About() {
             <div>
                 <h2 className="text-2xl font-bold mb-4">Autres informations</h2>
                 <ul className="list-disc list-inside space-y-2">
-                    <li>Je suis passionné également de football, j'en pratique depuis que j'ai 7 ans.</li>
-                    <li>J'aime beaucoup la musique, les jeux vidéo (jeux d'équipe, jeux de sports, etc.), mais aussi les
+                    <li>Je suis passionné également de football, j&#39;en pratique depuis que j&#39;ai 7 ans.</li>
+                    <li>J&#39;aime beaucoup la musique, les jeux vidéo (jeux d&#39;équipe, jeux de sports, etc.), mais aussi les
                         nouvelles technologies et la programmation.
                     </li>
-                    <li>J'aime aussi voyager, j'ai pu déjà voyager dans différents pays comme la Belgique ou encore les
-                        Pays-Bas. J'aimerais en faire beaucoup plus.
+                    <li>J&#39;aime aussi voyager, j&#39;ai pu déjà voyager dans différents pays comme la Belgique ou encore les
+                        Pays-Bas. J&#39;aimerais en faire beaucoup plus.
                     </li>
                 </ul>
             </div>
